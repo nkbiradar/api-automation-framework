@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "title": "automation testing",
+      "body": "pytest framework",
+      "userId": 1
+    },
+    {
+      "title": "api automation",
+      "body": "data driven testing",
+      "userId": 2
+    }
+  ]
+}
