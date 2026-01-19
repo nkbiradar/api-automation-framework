@@ -23,5 +23,3 @@ API functionality through automated tests and CI integration.
 - CI-based test execution using GitHub Actions
 
 ---
-
-## Project Structure
